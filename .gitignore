@@ -1,0 +1,11 @@
+# O sistema não usa arquivos de senha; por segurança, eles nunca vão para o GitHub
+senhas.txt
+.streamlit/secrets.toml
+*.env
+.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
